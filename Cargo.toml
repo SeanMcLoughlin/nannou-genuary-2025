@@ -1,0 +1,13 @@
+[package]
+name = "nannou-genuary-2025"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sean McLoughlin <smclough@protonmail.com>"]
+
+[dependencies]
+clap = { version = "4.5.26", features = ["derive"] }
+nannou = "0.19.0"
+
+[[example]]
+name = "18"
+path = "days/18.rs"
