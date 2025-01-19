@@ -15,3 +15,7 @@ path = "days/18.rs"
 [[example]]
 name = "19"
 path = "days/19.rs"
+
+[[example]]
+name = "19_1"
+path = "days/19_1.rs"
