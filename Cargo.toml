@@ -11,3 +11,7 @@ nannou = "0.19.0"
 [[example]]
 name = "18"
 path = "days/18.rs"
+
+[[example]]
+name = "19"
+path = "days/19.rs"
