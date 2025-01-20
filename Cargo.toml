@@ -7,6 +7,7 @@ authors = ["Sean McLoughlin <smclough@protonmail.com>"]
 [dependencies]
 clap = { version = "4.5.26", features = ["derive"] }
 nannou = "0.19.0"
+rand = "0.8"
 
 [[example]]
 name = "18"
@@ -19,3 +20,7 @@ path = "days/19.rs"
 [[example]]
 name = "19_1"
 path = "days/19_1.rs"
+
+[[example]]
+name = "20"
+path = "days/20.rs"
