@@ -1,3 +1,6 @@
+//! Op art.
+//! With zoom.
+
 use clap::Parser;
 use nannou::prelude::*;
 

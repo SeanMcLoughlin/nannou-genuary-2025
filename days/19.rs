@@ -1,3 +1,5 @@
+//! Op art.
+
 use clap::Parser;
 use nannou::prelude::*;
 

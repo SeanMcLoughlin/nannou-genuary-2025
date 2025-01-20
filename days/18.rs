@@ -1,3 +1,5 @@
+//! What does wind look like?
+
 use clap::Parser;
 use nannou::noise::{NoiseFn, OpenSimplex, Perlin, Value};
 use nannou::prelude::*;
