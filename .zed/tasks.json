@@ -74,6 +74,11 @@
   {
     "label": "25",
     "command": "cargo run --release --example 25",
+    "reveal": "never"
+  },
+  {
+    "label": "26",
+    "command": "cargo run --release --example 26",
     "reveal": "always"
   }
 ]

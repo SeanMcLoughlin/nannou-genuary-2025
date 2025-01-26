@@ -30,3 +30,7 @@ path = "days/20.rs"
 [[example]]
 name = "25"
 path = "days/25.rs"
+
+[[example]]
+name = "26"
+path = "days/26.rs"
