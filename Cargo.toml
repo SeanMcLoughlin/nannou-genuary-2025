@@ -42,3 +42,7 @@ path = "days/27.rs"
 [[example]]
 name = "31"
 path = "days/31.rs"
+
+[[example]]
+name = "31_sortiterator"
+path = "days/31_sortiterator.rs"

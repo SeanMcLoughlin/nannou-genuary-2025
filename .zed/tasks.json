@@ -89,6 +89,11 @@
   {
     "label": "31",
     "command": "cargo run --release --example 31",
-    "reveal": "always"
+    "reveal": "never"
+  },
+  {
+    "label": "31_sortiterator",
+    "command": "cargo run --release --example 31_sortiterator",
+    "reveal": "never"
   }
 ]
